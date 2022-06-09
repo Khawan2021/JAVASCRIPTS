@@ -57,7 +57,7 @@ var divisaoReal = 6 / 2;
 console.log(divisaoReal);
 
 //Divisão Inteira
-var divisaoInteira = 5 % 2;
+var divisaoInteira = 1 % 2;
 console.log(divisaoInteira);
 
 //Potencialização
